@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Max/Desktop/bukkit-0.0.1-SNAPSHOT.jar" sourcepath="C:/Users/Max/Desktop/Bukkit-Bukkit-0.0.0-620-g410d791.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Max/Desktop/Bukkit-Bukkit-0.0.0-620-g410d791.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
