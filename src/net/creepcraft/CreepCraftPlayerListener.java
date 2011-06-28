@@ -32,4 +32,10 @@ public class CreepCraftPlayerListener extends PlayerListener {
 				+ "decide who are your friends and who are "
 				+ "your foes, but also where you will " + "have your home!");
 	}
+
+	@Override
+	public void onPlayerChat(PlayerChatEvent event) {
+		if(event.isCancelled())
+			return;
+	}
 }
